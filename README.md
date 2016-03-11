@@ -311,5 +311,7 @@ render() {
 }
 ```
 
+## Known issues
 
+ * [Android] Marker & callout have no interactivity: you cannot have a button in them, see #49 and #92
 
